@@ -147,7 +147,7 @@ Gra jest łatwa do personalizacji. Oto niektóre rzeczy, które możesz zmienić
 
 ## Licencja 📝
 
-Ten projekt jest dostępny na licencji MIT. Zobacz plik [LICENSE](LICENSE), aby uzyskać więcej informacji.
+Ten projekt jest dostępny na licencji MIT. Zobacz plik [LICENSE](LICENSE.md), aby uzyskać więcej informacji.
 
 ## Podziękowania 🙏
 
